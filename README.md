@@ -12,7 +12,10 @@ Then you get the navigation controller <br>
 <img width="1069" alt="image" src="https://github.com/jasonfangmagic/Flash-Chat-iOS13/assets/87825019/081bd832-c725-4ce2-8017-46ab09700e62">
 
 # 4. For in Loops
-<img width="749" alt="image" src="https://github.com/jasonfangmagic/Flash-Chat-iOS13/assets/87825019/2c0249f0-02ae-427a-8924-09c3e02a2118">
+<img width="749" alt="image" src="https://github.com/jasonfangmagic/Flash-Chat-iOS13/assets/87825019/2c0249f0-02ae-427a-8924-09c3e02a2118"> <br>
+When you don't need the number <br>
+<img width="319" alt="image" src="https://github.com/jasonfangmagic/Flash-Chat-iOS13/assets/87825019/2d0df5dd-5c64-4c9b-b770-4f8b09783865">
+
 
 
 
