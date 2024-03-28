@@ -16,6 +16,10 @@ Then you get the navigation controller <br>
 When you don't need the number <br>
 <img width="319" alt="image" src="https://github.com/jasonfangmagic/Flash-Chat-iOS13/assets/87825019/2d0df5dd-5c64-4c9b-b770-4f8b09783865">
 
+# 5. While Loops
+<img width="844" alt="image" src="https://github.com/jasonfangmagic/Flash-Chat-iOS13/assets/87825019/e82607fa-b490-4bb2-bed7-84aad5d8329d">
+
+
 
 
 
