@@ -32,6 +32,10 @@ Bind two optional Strings to unwrap them to String. Only two of them don't fail,
 # 9.Type Property Add "static"
 <img width="925" alt="image" src="https://github.com/jasonfangmagic/Flash-Chat-iOS13/assets/87825019/c1de2f1d-3dfc-437a-8400-c2f3dfe39e1b">
 
+# 10. Need to Add "as!" to Cast the Reuseable Cell as a Message Cell Class
+<img width="1133" alt="image" src="https://github.com/jasonfangmagic/Flash-Chat-iOS13/assets/87825019/57f4ebde-fbeb-448c-9dcc-64bd1c06669c">
+
+
 
 
 
