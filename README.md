@@ -19,6 +19,11 @@ When you don't need the number <br>
 # 5. While Loops
 <img width="844" alt="image" src="https://github.com/jasonfangmagic/Flash-Chat-iOS13/assets/87825019/e82607fa-b490-4bb2-bed7-84aad5d8329d">
 
+# 6. Optional Binding.
+Bind two optional Strings to unwrap them to String. Only two of them don't fail, we procceed to the next step
+<img width="958" alt="image" src="https://github.com/jasonfangmagic/Flash-Chat-iOS13/assets/87825019/cf9f33b8-bbd8-4fb4-88dc-cadaf8462ca6">
+
+
 
 
 
