@@ -39,6 +39,11 @@ Bind two optional Strings to unwrap them to String. Only two of them don't fail,
 <img width="500" alt="image" src="https://github.com/jasonfangmagic/Flash-Chat-iOS13/assets/87825019/04e2eda6-1145-4ec4-b9e4-6b900166a09e">
 <img width="940" alt="image" src="https://github.com/jasonfangmagic/Flash-Chat-iOS13/assets/87825019/f9963765-990a-4275-8915-8667a5e03f04">
 
+# 12. Use as! to Cast Down the Animal Subclass
+<img width="593" alt="image" src="https://github.com/jasonfangmagic/Flash-Chat-iOS13/assets/87825019/5de5efcc-a861-45ee-9128-fc191eba229f">
+<img width="759" alt="image" src="https://github.com/jasonfangmagic/Flash-Chat-iOS13/assets/87825019/44f677fc-1e8b-4518-b3f0-2aee66bcdeae">
+
+
 
 
 
