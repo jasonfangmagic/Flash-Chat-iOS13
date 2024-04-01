@@ -50,7 +50,7 @@ Use if statement to skip this line of code <br>
 <img width="900" alt="image" src="https://github.com/jasonfangmagic/Flash-Chat-iOS13/assets/87825019/0787ed6c-add6-4f3c-b6f8-23ab8fdacedd">
 
 # 14. Upcast
-Upgrade from subclass to its superclass
+Upgrade from subclass to its superclass <br>
 <img width="603" alt="image" src="https://github.com/jasonfangmagic/Flash-Chat-iOS13/assets/87825019/2ca0e789-2512-45c3-beb2-a0dc916f1686">
 
 
