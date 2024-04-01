@@ -27,7 +27,7 @@ class ChatViewController: UIViewController {
     
     @IBAction func LogOutPressed(_ sender: UIBarButtonItem) {
         
-        navigationController?.popViewController(animated: true)
+        navigationController?.popToRootViewController(animated: true)
     }
     
 
