@@ -20,6 +20,8 @@
 		D4A6B0DF6237AD5FFB5AF280 /* Pods_Flash_Chat_iOS13.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9EF7F7C88CC05E03BE52857F /* Pods_Flash_Chat_iOS13.framework */; };
 		F2590EA52BBB044300697885 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2590EA42BBB044300697885 /* Constants.swift */; };
 		F2590EA72BBB080300697885 /* Message.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2590EA62BBB080300697885 /* Message.swift */; };
+		F2590EAA2BBB0CE800697885 /* MessageCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = F2590EA92BBB0CE800697885 /* MessageCell.xib */; };
+		F2590EAB2BBB0CE800697885 /* MessageCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2590EA82BBB0CE800697885 /* MessageCell.swift */; };
 		F2888F212BB7780C003DBD7E /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = F2888F202BB7780C003DBD7E /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
@@ -42,6 +44,8 @@
 		F2590EA32BBA446E00697885 /* Flash Chat iOS13.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "Flash Chat iOS13.entitlements"; sourceTree = "<group>"; };
 		F2590EA42BBB044300697885 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		F2590EA62BBB080300697885 /* Message.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Message.swift; sourceTree = "<group>"; };
+		F2590EA82BBB0CE800697885 /* MessageCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageCell.swift; sourceTree = "<group>"; };
+		F2590EA92BBB0CE800697885 /* MessageCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MessageCell.xib; sourceTree = "<group>"; };
 		F2888F202BB7780C003DBD7E /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -109,6 +113,8 @@
 			isa = PBXGroup;
 			children = (
 				0B62817C235DEE8100E35CAF /* Main.storyboard */,
+				F2590EA82BBB0CE800697885 /* MessageCell.swift */,
+				F2590EA92BBB0CE800697885 /* MessageCell.xib */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -199,6 +205,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0B628183235DEE8400E35CAF /* LaunchScreen.storyboard in Resources */,
+				F2590EAA2BBB0CE800697885 /* MessageCell.xib in Resources */,
 				0B628180235DEE8400E35CAF /* Assets.xcassets in Resources */,
 				F2888F212BB7780C003DBD7E /* GoogleService-Info.plist in Resources */,
 				0B62819E235F0F4D00E35CAF /* README.md in Resources */,
@@ -263,6 +270,7 @@
 				F2590EA72BBB080300697885 /* Message.swift in Sources */,
 				0B628191235DF01B00E35CAF /* ChatViewController.swift in Sources */,
 				0B62818D235DF00B00E35CAF /* RegisterViewController.swift in Sources */,
+				F2590EAB2BBB0CE800697885 /* MessageCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
