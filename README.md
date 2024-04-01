@@ -23,6 +23,10 @@ When you don't need the number <br>
 Bind two optional Strings to unwrap them to String. Only two of them don't fail, we procceed to the next step
 <img width="958" alt="image" src="https://github.com/jasonfangmagic/Flash-Chat-iOS13/assets/87825019/cf9f33b8-bbd8-4fb4-88dc-cadaf8462ca6">
 
+# 7. Give User Error Messages
+<img width="669" alt="image" src="https://github.com/jasonfangmagic/Flash-Chat-iOS13/assets/87825019/0592ce6e-010d-4a87-8087-72e6fc1295c1">
+
+
 
 
 
