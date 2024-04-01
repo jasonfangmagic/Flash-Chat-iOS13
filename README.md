@@ -26,6 +26,10 @@ Bind two optional Strings to unwrap them to String. Only two of them don't fail,
 # 7. Give User Error Messages
 <img width="669" alt="image" src="https://github.com/jasonfangmagic/Flash-Chat-iOS13/assets/87825019/0592ce6e-010d-4a87-8087-72e6fc1295c1">
 
+# 8. Go back to the Root VC
+<img width="841" alt="image" src="https://github.com/jasonfangmagic/Flash-Chat-iOS13/assets/87825019/b8a76c3f-5c53-42df-8508-a82a510adb8e">
+
+
 
 
 
