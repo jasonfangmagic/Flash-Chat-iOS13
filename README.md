@@ -43,6 +43,11 @@ Bind two optional Strings to unwrap them to String. Only two of them don't fail,
 <img width="593" alt="image" src="https://github.com/jasonfangmagic/Flash-Chat-iOS13/assets/87825019/5de5efcc-a861-45ee-9128-fc191eba229f">
 <img width="759" alt="image" src="https://github.com/jasonfangmagic/Flash-Chat-iOS13/assets/87825019/44f677fc-1e8b-4518-b3f0-2aee66bcdeae">
 
+# 13. Unless You're Sure about the datatype, it's better to use "as?" instead of "as!"
+When you don't get the correct datatype from API, your app will crash
+<img width="814" alt="image" src="https://github.com/jasonfangmagic/Flash-Chat-iOS13/assets/87825019/9f0c85b7-c9f6-4991-baba-eeb8594eb2db">
+
+
 
 
 
