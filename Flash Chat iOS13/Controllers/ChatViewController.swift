@@ -15,10 +15,19 @@ class ChatViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        navigationItem.hidesBackButton = true
+        
 
     }
     
     @IBAction func sendPressed(_ sender: UIButton) {
+    }
+    
+    
+    @IBAction func LogOutPressed(_ sender: UIBarButtonItem) {
+        
+        navigationController?.popViewController(animated: true)
     }
     
 
