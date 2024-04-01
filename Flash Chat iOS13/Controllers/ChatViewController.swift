@@ -13,12 +13,18 @@ class ChatViewController: UIViewController {
     @IBOutlet weak var tableView: UITableView!
     @IBOutlet weak var messageTextfield: UITextField!
     
+    var message: [Message] = [
+        Message(sender: "2@3.com", body: "Hey!")
+    ]
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        navigationItem.hidesBackButton = true
+        title = K.appName
         
+        navigationItem.hidesBackButton = true
 
+        tableView.dataSource = self
     }
     
     @IBAction func sendPressed(_ sender: UIButton) {
@@ -29,6 +35,21 @@ class ChatViewController: UIViewController {
         
         navigationController?.popToRootViewController(animated: true)
     }
-    
 
 }
+
+extension ChatViewController: UITableViewDataSource {
+    func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
+        return message.count
+    }
+    
+    func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
+        let cell = tableView.dequeueReusableCell(withIdentifier: K.cellIdentifier, for: indexPath)
+        
+        cell.textLabel?.text = message[indexPath.row].body
+        return cell
+    }
+    
+}
+
+
