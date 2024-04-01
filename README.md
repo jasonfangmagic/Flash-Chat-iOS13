@@ -29,6 +29,10 @@ Bind two optional Strings to unwrap them to String. Only two of them don't fail,
 # 8. Go back to the Root VC
 <img width="841" alt="image" src="https://github.com/jasonfangmagic/Flash-Chat-iOS13/assets/87825019/b8a76c3f-5c53-42df-8508-a82a510adb8e">
 
+# 9.Type Property Add "static"
+<img width="925" alt="image" src="https://github.com/jasonfangmagic/Flash-Chat-iOS13/assets/87825019/c1de2f1d-3dfc-437a-8400-c2f3dfe39e1b">
+
+
 
 
 
