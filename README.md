@@ -35,6 +35,10 @@ Bind two optional Strings to unwrap them to String. Only two of them don't fail,
 # 10. Need to Add "as!" to Cast the Reuseable Cell as a Message Cell Class
 <img width="1133" alt="image" src="https://github.com/jasonfangmagic/Flash-Chat-iOS13/assets/87825019/57f4ebde-fbeb-448c-9dcc-64bd1c06669c">
 
+# 11. Use "is" to Check if a Datatype is correct
+<img width="500" alt="image" src="https://github.com/jasonfangmagic/Flash-Chat-iOS13/assets/87825019/04e2eda6-1145-4ec4-b9e4-6b900166a09e">
+<img width="940" alt="image" src="https://github.com/jasonfangmagic/Flash-Chat-iOS13/assets/87825019/f9963765-990a-4275-8915-8667a5e03f04">
+
 
 
 
