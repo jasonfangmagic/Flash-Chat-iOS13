@@ -22,6 +22,7 @@
 		F2590EA72BBB080300697885 /* Message.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2590EA62BBB080300697885 /* Message.swift */; };
 		F2590EAA2BBB0CE800697885 /* MessageCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = F2590EA92BBB0CE800697885 /* MessageCell.xib */; };
 		F2590EAB2BBB0CE800697885 /* MessageCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2590EA82BBB0CE800697885 /* MessageCell.swift */; };
+		F2590EAE2BBCF9BD00697885 /* IQKeyboardManagerSwift in Frameworks */ = {isa = PBXBuildFile; productRef = F2590EAD2BBCF9BD00697885 /* IQKeyboardManagerSwift */; };
 		F2888F212BB7780C003DBD7E /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = F2888F202BB7780C003DBD7E /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
@@ -55,6 +56,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D4A6B0DF6237AD5FFB5AF280 /* Pods_Flash_Chat_iOS13.framework in Frameworks */,
+				F2590EAE2BBCF9BD00697885 /* IQKeyboardManagerSwift in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -162,6 +164,9 @@
 			dependencies = (
 			);
 			name = "Flash Chat iOS13";
+			packageProductDependencies = (
+				F2590EAD2BBCF9BD00697885 /* IQKeyboardManagerSwift */,
+			);
 			productName = "Flash Chat iOS13";
 			productReference = 0B628173235DEE8100E35CAF /* Flash Chat iOS13.app */;
 			productType = "com.apple.product-type.application";
@@ -190,6 +195,9 @@
 				Base,
 			);
 			mainGroup = 0B62816A235DEE8100E35CAF;
+			packageReferences = (
+				F2590EAC2BBCF9BD00697885 /* XCRemoteSwiftPackageReference "IQKeyboardManager" */,
+			);
 			productRefGroup = 0B628174235DEE8100E35CAF /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -472,6 +480,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		F2590EAC2BBCF9BD00697885 /* XCRemoteSwiftPackageReference "IQKeyboardManager" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/hackiftekhar/IQKeyboardManager";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 7.0.2;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		F2590EAD2BBCF9BD00697885 /* IQKeyboardManagerSwift */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = F2590EAC2BBCF9BD00697885 /* XCRemoteSwiftPackageReference "IQKeyboardManager" */;
+			productName = IQKeyboardManagerSwift;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 0B62816B235DEE8100E35CAF /* Project object */;
 }
