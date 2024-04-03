@@ -35,6 +35,35 @@ Bind two optional Strings to unwrap them to String. Only two of them don't fail,
 # 10. Need to Add "as!" to Cast the Reuseable Cell as a Message Cell Class
 <img width="1133" alt="image" src="https://github.com/jasonfangmagic/Flash-Chat-iOS13/assets/87825019/57f4ebde-fbeb-448c-9dcc-64bd1c06669c">
 
+# 11. Use "is" to Check if a Datatype is correct. It's for Type Checking
+<img width="500" alt="image" src="https://github.com/jasonfangmagic/Flash-Chat-iOS13/assets/87825019/04e2eda6-1145-4ec4-b9e4-6b900166a09e">
+<img width="940" alt="image" src="https://github.com/jasonfangmagic/Flash-Chat-iOS13/assets/87825019/f9963765-990a-4275-8915-8667a5e03f04">
+
+# 12. Forced Downcast. Use as! to Cast Down the Animal Subclass
+<img width="593" alt="image" src="https://github.com/jasonfangmagic/Flash-Chat-iOS13/assets/87825019/5de5efcc-a861-45ee-9128-fc191eba229f">
+<img width="759" alt="image" src="https://github.com/jasonfangmagic/Flash-Chat-iOS13/assets/87825019/44f677fc-1e8b-4518-b3f0-2aee66bcdeae">
+
+# 13. Unless You're Sure about the datatype, it's better to use "as?" instead of "as!"
+When you don't get the correct datatype from API, your app will crash
+<img width="814" alt="image" src="https://github.com/jasonfangmagic/Flash-Chat-iOS13/assets/87825019/9f0c85b7-c9f6-4991-baba-eeb8594eb2db"> <br>
+Use if statement to skip this line of code <br>
+<img width="900" alt="image" src="https://github.com/jasonfangmagic/Flash-Chat-iOS13/assets/87825019/0787ed6c-add6-4f3c-b6f8-23ab8fdacedd">
+
+# 14. Upcast
+Upgrade from subclass to its superclass <br>
+<img width="603" alt="image" src="https://github.com/jasonfangmagic/Flash-Chat-iOS13/assets/87825019/2ca0e789-2512-45c3-beb2-a0dc916f1686">
+
+# 15. Bind Both Optional Strings ?
+When both Strings are not nil, then we do something 
+<img width="1046" alt="image" src="https://github.com/jasonfangmagic/Flash-Chat-iOS13/assets/87825019/2d57dfa0-6836-489b-aa12-b7b9d480936c">
+
+
+
+
+
+
+
+
 
 
 
