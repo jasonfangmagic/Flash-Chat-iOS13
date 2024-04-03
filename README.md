@@ -53,6 +53,11 @@ Use if statement to skip this line of code <br>
 Upgrade from subclass to its superclass <br>
 <img width="603" alt="image" src="https://github.com/jasonfangmagic/Flash-Chat-iOS13/assets/87825019/2ca0e789-2512-45c3-beb2-a0dc916f1686">
 
+# 15. Bind Both Optional Strings ?
+When both Strings are not nil, then we do something 
+<img width="1046" alt="image" src="https://github.com/jasonfangmagic/Flash-Chat-iOS13/assets/87825019/2d57dfa0-6836-489b-aa12-b7b9d480936c">
+
+
 
 
 
