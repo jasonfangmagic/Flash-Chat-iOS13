@@ -357,6 +357,13 @@
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="CxA-dQ-Ymh">
                         <rect key="frame" x="0.0" y="48" width="414" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
+                        <color key="barTintColor" name="BrandBlue"/>
+                        <textAttributes key="titleTextAttributes">
+                            <color key="textColor" name="BrandBlue"/>
+                        </textAttributes>
+                        <textAttributes key="largeTitleTextAttributes">
+                            <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        </textAttributes>
                     </navigationBar>
                     <nil name="viewControllers"/>
                     <connections>
