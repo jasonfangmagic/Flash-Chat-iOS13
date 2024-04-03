@@ -57,6 +57,9 @@ Upgrade from subclass to its superclass <br>
 When both Strings are not nil, then we do something 
 <img width="1046" alt="image" src="https://github.com/jasonfangmagic/Flash-Chat-iOS13/assets/87825019/2d57dfa0-6836-489b-aa12-b7b9d480936c">
 
+# 16. Add 'super' when you want to overrider function over your super class
+<img width="667" alt="image" src="https://github.com/jasonfangmagic/Flash-Chat-iOS13/assets/87825019/9f852682-0bd0-4cfe-a89a-753213f1e05e">
+
 
 
 
